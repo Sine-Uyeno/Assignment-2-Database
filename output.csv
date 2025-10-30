@@ -1,0 +1,11 @@
+
+"VENDORID","NAME","DESCRIPTION","CONTACT_FIRST_NAME","CONTACT_LAST_NAME","CONTACT_PHONE_NUMBER","STATUS"
+1,"TALFARM","Taylor Farms","Dewei","Barlowe",4035551234,"I"
+2,"ROCTEFARM","Rocky Terrace Farms","Mae","Sai",4035556542,"A"
+3,"WHITRFARM","White Tree Farms","Otis","Caddel",4035555654,"A"
+4,"DOULAFARM","Douglas Lake Farms","Kalen","Francis",4035555692,"A"
+5,"SWLAFARM","Swan Lake Farms","Mateo","Wolf",4035552584,"A"
+6,"HTFARM","Happy Turkey Farms","Bob","Turkey",4035552584,"A"
+
+6 rows selected.
+
